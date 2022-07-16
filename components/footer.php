@@ -5,8 +5,8 @@
       <div class="box">
          <img src="images/email-icon.png" alt="">
          <h3>our email</h3>
-         <a href="mailto:shaikhanas@gmail.com">shaikhanas@gmail.com</a>
-         <a href="mailto:anasbhai@gmail.com">anasbhai@gmail.com</a>
+         <a href="mailto:shaikhanas@gmail.com">abc@gmail.com</a>
+         <a href="mailto:anasbhai@gmail.com">food@gmail.com</a>
       </div>
 
       <div class="box">
@@ -30,7 +30,7 @@
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>mr. web designer</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span></span> | all rights reserved!</div>
 
 </footer>
 
